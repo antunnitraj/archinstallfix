@@ -1,5 +1,5 @@
 # archinstallfix
-fixed the archinstall error for keyring
+fixes the archinstall error for keyring
 ## Run this as root
 even tho you are root in the arch iso so that title was useless
 ``` 
